@@ -40,9 +40,9 @@ For each question addressed, the main concern and approach to solve it are outli
 
 ## File Structure
 - **google_sheet**: Contains the Google Sheet file with the dataset for the restaurant database.
-- **tableau_viz**: Includes a link to the Tableau project for data visualization.
+- **[tableau_viz](link-to-tableau-viz)**: Includes a link to the Tableau project for data visualization.
 - **sql_scripts**: Includes the .sql script for data cleaning, analysis, and operations.
-- **analysis_pdf**: Contains the PDF file with detailed analysis for each question.
+- **[analysis_pdf](link-to-pdf)**: Contains the PDF file with detailed analysis for each question.
 
 
 
