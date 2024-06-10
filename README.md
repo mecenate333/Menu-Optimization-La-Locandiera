@@ -32,16 +32,6 @@ This project portfolio showcases my data analytics skills applied to a dataset c
 ## Approach
 For each question addressed, the main concern and approach to solve it are outlined. The approach includes a description of the analysis methods used and potential recommendations derived from the insights.
 
-## Technologies Used
-- MySQL for querying the database
-- Tableau for data visualization
-
-## File Structure
-- **data**: Contains the dataset files for the restaurant database.
-- **scripts**: Includes SQL scripts for data analysis and querying the database.
-- **notebooks**: Contains Jupyter notebooks documenting the data analysis process.
-- *[Include any other relevant directories or files]*
-
 
 ## Technologies Used
 - MySQL for querying the database
