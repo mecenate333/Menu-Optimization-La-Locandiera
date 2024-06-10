@@ -40,7 +40,7 @@ For each question addressed, the main concern and approach to solve it are outli
 
 ## File Structure
 - **google_sheet**: Contains the Google Sheet file with the dataset for the restaurant database.
-- **[tableau_viz](link-to-tableau-viz)**: Includes a link to the Tableau project for data visualization.
+- **[tableau_viz](https://public.tableau.com/views/LaLocandiera-MenuOptimization/Hoja8?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)**: Includes a link to the Tableau project for data visualization.
 - **sql_scripts**: Includes the .sql script for data cleaning, analysis, and operations.
 - **[analysis_pdf](link-to-pdf)**: Contains the PDF file with detailed analysis for each question.
 
