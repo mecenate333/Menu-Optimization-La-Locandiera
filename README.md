@@ -42,12 +42,12 @@ For each question addressed, the main concern and approach to solve it are outli
 - **google_sheet**: Contains the Google Sheet file with the dataset for the restaurant database.
 - **[tableau_viz](https://public.tableau.com/views/LaLocandiera-MenuOptimization/Hoja8?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)**: Includes a link to the Tableau project for data visualization.
 - **sql_scripts**: Includes the .sql script for data cleaning, analysis, and operations.
-- **[analysis_pdf](link-to-pdf)**: Contains the PDF file with detailed analysis for each question.
+- **[analysis_pdf](https://github.com/mecenate333/Menu-Optimization-La-Locandiera/blob/main/Project%20Insights.pdf)**: Contains the PDF file with detailed analysis for each question.
 
 
 
 ## Results
-The detailed analysis and insights for each question, along with Tableau visualizations, can be found in the [Analysis PDF](link-to-pdf-file).
+The detailed analysis and insights for each question, along with Tableau visualizations, can be found in the [Analysis PDF]([link-to-pdf-file](https://github.com/mecenate333/Menu-Optimization-La-Locandiera/blob/main/Project%20Insights.pdf)).
 
 ## Author
 Martin Berger  
