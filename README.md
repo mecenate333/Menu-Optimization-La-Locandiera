@@ -1,5 +1,5 @@
 # Menu-Optimization-La-Locandiera
-Menu Optimization of the italian restaurant La Locandiera
+SQL and Tableau Menu Optimization of the italian restaurant La Locandiera
 
 
 # Restaurant Data Analytics Project Portfolio
